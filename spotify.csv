@@ -1,7 +1,7 @@
 ,name,album,artist,danceability,iframe,length,popularity,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,release_date
-0,"Hallelujah, I Love Her So","Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,0.696,"<iframe src=""https://open.spotify.com/embed/track/5P11rW6aJErF37MTfRZS31"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",155506,64,0.792,0.547,0,0.155,-5.954,0.169,73.203,4,1/1/1957
-1,Is This Love - Montmartre Remix,Is This Love (Montmartre Remix),Bob Marley & The Wailers,0.626,"<iframe src=""https://open.spotify.com/embed/track/3DE2xnbdTDuatFubUV0soe"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",269403,61,0.0897,0.604,0,0.122,-7.23,0.142,122.943,4,9/23/2014
-2,Animal Spirits,The Beautiful Game,Vulfpeck,0.751,"<iframe src=""https://open.spotify.com/embed/track/1SHA4IJyiyNobDOrQzFFXy"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",190801,58,0.156,0.713,9.59E-05,0.0508,-7.333,0.0544,100.856,4,10/17/2016
+0,"Hallelujah, I Love Her So","Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,0.696,https://open.spotify.com/embed/track/5P11rW6aJErF37MTfRZS31,155506,64,0.792,0.547,0,0.155,-5.954,0.169,73.203,4,1/1/1957
+1,Is This Love - Montmartre Remix,Is This Love (Montmartre Remix),Bob Marley & The Wailers,0.626,,269403,61,0.0897,0.604,0,0.122,-7.23,0.142,122.943,4,9/23/2014
+2,Animal Spirits,The Beautiful Game,Vulfpeck,0.751,,190801,58,0.156,0.713,9.59E-05,0.0508,-7.333,0.0544,100.856,4,10/17/2016
 3,I'm a Believer - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,0.526,,167373,74,0.707,0.775,2.05E-05,0.217,-6.05,0.0352,80.106,4,1/9/1967
 4,Wasting Time,Nathaniel Rateliff & The Night Sweats,Nathaniel Rateliff & The Night Sweats,0.302,,224360,0,0.208,0.698,0.00494,0.123,-5.702,0.0482,78.411,4,1/1/2015
 5,Wake Up,Funeral,Arcade Fire,0.252,,335333,66,0.12,0.8,0.0538,0.118,-4.845,0.0368,139.361,4,6/16/2004
