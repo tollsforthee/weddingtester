@@ -1,53 +1,50 @@
 ,name,album,artist,danceability,iframe,length,popularity,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,release_date
-0,Bless the Telephone,The Singer & The Song,Labi Siffre,0.567,,100746,52,0.978,0.175,2.14E-05,0.103,-17.466,0.0483,135.521,4,1971
-1,"Hallelujah, I Love Her So","Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,0.696,,155506,64,0.792,0.547,0,0.155,-5.954,0.169,73.203,4,1/1/1957
-2,May You Always,True 50's love,Various Artists,0.378,,175733,0,0.822,0.229,0,0.181,-11.03,0.0289,80.694,4,1/1/2008
-3,You And Me,Penny & the Quarters EP,Penny & The Quarters,0.562,,160813,57,0.945,0.178,6.66E-06,0.121,-7.811,0.0343,109.589,4,3/4/2011
-4,Is This Love - Montmartre Remix,Is This Love (Montmartre Remix),Bob Marley & The Wailers,0.626,,269403,61,0.0897,0.604,0,0.122,-7.23,0.142,122.943,4,9/23/2014
-5,Animal Spirits,The Beautiful Game,Vulfpeck,0.751,,190801,58,0.156,0.713,9.59E-05,0.0508,-7.333,0.0544,100.856,4,10/17/2016
-6,I'm a Believer - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,0.526,,167373,74,0.707,0.775,2.05E-05,0.217,-6.05,0.0352,80.106,4,1/9/1967
-7,Wasting Time,Nathaniel Rateliff & The Night Sweats,Nathaniel Rateliff & The Night Sweats,0.302,,224360,0,0.208,0.698,0.00494,0.123,-5.702,0.0482,78.411,4,1/1/2015
-8,Wake Up,Funeral,Arcade Fire,0.252,,335333,66,0.12,0.8,0.0538,0.118,-4.845,0.0368,139.361,4,6/16/2004
-9,Reflektor,Reflektor,Arcade Fire,0.589,,453949,6,0.0445,0.72,0.0142,0.364,-8.33,0.0309,111.602,4,1/1/2013
-10,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Random Access Memories,Daft Punk,0.81,,369626,76,0.0378,0.793,1.82E-06,0.072,-9.404,0.0403,116.049,4,5/17/2013
-11,My Girls,Merriweather Post Pavilion,Animal Collective,0.508,,340786,55,0.256,0.953,0.0445,0.929,-6.031,0.0806,119.973,4,1/20/2009
-12,How Loud Your Heart Gets,Wildewoman (Deluxe Edition),Lucius,0.398,,343480,0,0.132,0.657,0.001,0.169,-6.758,0.038,140.054,4,10/14/2014
-13,Animal,Miike Snow (Deluxe Edition),Miike Snow,0.772,,263426,41,0.0096,0.721,5.85E-06,0.0869,-6.651,0.0777,118.021,4,2009
-14,There Will Be Time,Johannesburg,Mumford & Sons,0.481,,267946,0,0.0137,0.703,0,0.0879,-8.344,0.0466,149.951,4,6/17/2016
-15,Destination,A Dotted Line,Nickel Creek,0.515,,231240,46,0.46,0.444,3.81E-05,0.1,-8.847,0.0296,145.9,4,3/28/2014
-16,Ran,The Far Field,Future Islands,0.465,,205586,17,0.00252,0.701,0.0447,0.0683,-6.828,0.0337,144.931,5,4/7/2017
-17,"Twistin' The Night Away - Live at the Harlem Square Club, Miami, FL - January 1963","One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",Sam Cooke,0.277,,258959,32,0.273,0.959,0,0.862,-3.63,0.0581,169.016,4,8/16/1963
-18,My Girl,The Temptations Sing Smokey,The Temptations,0.572,,165000,79,0.635,0.418,0,0.0961,-10.738,0.0349,104.566,4,3/22/1965
-19,All My Loving - Remastered 2009,With The Beatles (Remastered),The Beatles,0.416,,127853,68,0.207,0.563,0,0.343,-8.724,0.0298,77.56,4,11/22/1963
-20,Luxury,The Definition,Jon Bellion,0.67,,243458,54,0.0159,0.393,0.000307,0.104,-9.158,0.122,77.461,4,9/23/2014
-21,Can't Hold Us (feat. Ray Dalton),The Heist,Macklemore & Ryan Lewis,0.634,,258431,34,0.027,0.927,0,0.0986,-4.468,0.0838,146.094,4,10/10/2012
-22,Feel It Still,Woodstock,Portugal. The Man,0.801,,163253,79,0.0417,0.795,0.000113,0.0717,-5.115,0.0504,79.028,4,6/16/2017
-23,Just Dancing,What Now,Sylvan Esso,0.803,,268440,44,0.0986,0.509,0.00156,0.0577,-7.409,0.0353,119.993,4,4/28/2017
-24,Happy,Tetra,C2C,0.753,,234640,49,0.0266,0.92,0.174,0.624,-4.657,0.0933,120.014,4,1/1/2012
-25,Electric Love,Dopamine,BØRNS,0.611,,218106,85,0.00543,0.797,0.00137,0.26,-7.627,0.0533,120.041,4,10/16/2015
-26,You've Got The Love,Lungs (Deluxe Edition),Florence + The Machine,0.574,,168666,61,0.00455,0.704,0,0.107,-4.72,0.0319,109.999,4,2009
-27,This Magic Moment,All-Time Greatest Hits & More 1959-1965,The Drifters,0.27,,151560,56,0.455,0.599,2.92E-06,0.116,-4.63,0.0327,136.169,3,11/15/1988
-28,Phenomenal Woman,The Dreaming Room (Special Edition),Laura Mvula,0.701,,164706,19,0.00229,0.658,0.016,0.348,-4.763,0.0409,129.926,4,11/25/2016
-29,Something About You,Good Grief (Deluxe Edition),Lucius,0.61,,220398,0,0.0451,0.899,0.01,0.196,-4.839,0.0601,125.012,4,3/11/2016
-30,D.A.N.C.E,Justice,Justice,0.613,,242266,66,0.034,0.962,0,0.824,-5.07,0.278,113.015,4,6/11/2007
-31,Come Away With Me,Come Away With Me,Norah Jones,0.363,,198146,72,0.904,0.129,1.52E-06,0.157,-14.304,0.0322,80.367,3,2/26/2002
-32,Your Song,Elton John,Elton John,0.554,,241786,79,0.828,0.315,5.53E-06,0.101,-11.028,0.0298,128.157,4,4/10/1970
-33,Stand by Me,Pain in My Heart,Otis Redding,0.883,,172333,70,0.279,0.464,1.51E-05,0.0744,-11.251,0.0591,111.548,4,1964
-34,Just Dance,The Fame,Lady Gaga,0.822,,241933,1,0.0261,0.737,4.19E-05,0.18,-4.542,0.0314,118.994,4,1/1/2008
-35,SexyBack (feat. Timbaland),FutureSex/LoveSounds,Justin Timberlake,0.967,,242733,80,0.0584,0.583,0,0.0519,-5.562,0.0789,117,4,9/12/2006
-36,We Found Love,Talk That Talk,Rihanna,0.735,,215226,74,0.025,0.766,0.00138,0.108,-4.485,0.0383,127.985,4,11/19/2011
-37,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",Shakira,0.778,,218093,84,0.284,0.824,0,0.405,-5.892,0.0712,100.024,4,11/28/2005
-38,Blue Jeans - RAC Mix,Blue Jeans Remixes,Lana Del Rey,0.694,,218213,46,0.399,0.841,0.00652,0.1,-3.889,0.0524,117.968,4,1/1/2012
-39,Run the World (Girls),4,Beyoncé,0.733,,236093,74,0.00496,0.899,4.72E-05,0.372,-4.237,0.143,127.086,4,6/24/2011
-40,Drunk in Love (feat. Jay-Z),BEYONCÉ [Platinum Edition],Beyoncé,0.589,,323480,72,0.00969,0.621,0.00104,0.181,-6.902,0.0468,140.03,4,11/24/2014
-41,Gold Digger,Late Registration,Kanye West,0.629,,207626,78,0.0195,0.696,0,0.0554,-5.572,0.348,93.034,4,8/30/2005
-42,Stronger,Graduation,Kanye West,0.617,,311866,82,0.00564,0.717,0,0.408,-7.858,0.153,103.992,4,9/11/2007
-43,Toxic,In The Zone,Britney Spears,0.774,,198800,82,0.0249,0.838,0.025,0.242,-3.914,0.114,143.04,4,11/13/2003
-44,Hung Up,Confessions on a Dance Floor,Madonna,0.649,,337733,75,0.0039,0.647,0.161,0.0686,-7.695,0.0452,125.02,4,11/11/2005
-45,Love Train,LOVE,Various Artists,0.727,,177360,16,0.278,0.709,0,0.558,-6.32,0.0351,122.424,4,2/9/2009
-46,Build Me Up Buttercup - Mono,The Foundations,The Foundations,0.659,,177533,75,0.315,0.513,0,0.283,-7.186,0.0293,133.609,4,1/1/1968
-47,Beggin',New Gold Hits,Frankie Valli & The Four Seasons,0.59,,170626,58,0.0651,0.356,0,0.167,-14.656,0.0404,129.639,4,5/1/1967
-48,Something's Got A Hold On Me - Single Version,Mad Men: A Musical Companion (1960-1965),Various Artists,0.474,,166466,0,0.675,0.566,0,0.548,-5.913,0.113,150.122,4,1/1/2011
-49,Can't Take My Eyes off You,The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli & The Four Seasons,0.575,,203240,70,0.566,0.764,1.07E-05,0.0692,-7.448,0.0746,123.821,4,1/14/2003
-50,Palco,Luar,Gilberto Gil,0.734,,266173,29,0.511,0.788,0.0774,0.326,-7.361,0.0462,108.325,4,1981
-51,Let's Stay Together,Let's Stay Together,Al Green,0.756,,199396,76,0.57,0.397,0.0115,0.0542,-10.701,0.0522,101.985,4,1972
+0,"Hallelujah, I Love Her So","Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,0.696,"<iframe src=""https://open.spotify.com/embed/track/5P11rW6aJErF37MTfRZS31"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",155506,64,0.792,0.547,0,0.155,-5.954,0.169,73.203,4,1/1/1957
+1,Is This Love - Montmartre Remix,Is This Love (Montmartre Remix),Bob Marley & The Wailers,0.626,"<iframe src=""https://open.spotify.com/embed/track/3DE2xnbdTDuatFubUV0soe"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",269403,61,0.0897,0.604,0,0.122,-7.23,0.142,122.943,4,9/23/2014
+2,Animal Spirits,The Beautiful Game,Vulfpeck,0.751,"<iframe src=""https://open.spotify.com/embed/track/1SHA4IJyiyNobDOrQzFFXy"" width=""300"" height=""380"" frameborder=""0"" allowtransparency=""true"" allow=""encrypted-media""></iframe>",190801,58,0.156,0.713,9.59E-05,0.0508,-7.333,0.0544,100.856,4,10/17/2016
+3,I'm a Believer - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,0.526,,167373,74,0.707,0.775,2.05E-05,0.217,-6.05,0.0352,80.106,4,1/9/1967
+4,Wasting Time,Nathaniel Rateliff & The Night Sweats,Nathaniel Rateliff & The Night Sweats,0.302,,224360,0,0.208,0.698,0.00494,0.123,-5.702,0.0482,78.411,4,1/1/2015
+5,Wake Up,Funeral,Arcade Fire,0.252,,335333,66,0.12,0.8,0.0538,0.118,-4.845,0.0368,139.361,4,6/16/2004
+6,Reflektor,Reflektor,Arcade Fire,0.589,,453949,6,0.0445,0.72,0.0142,0.364,-8.33,0.0309,111.602,4,1/1/2013
+7,Get Lucky (feat. Pharrell Williams & Nile Rodgers),Random Access Memories,Daft Punk,0.81,,369626,76,0.0378,0.793,1.82E-06,0.072,-9.404,0.0403,116.049,4,5/17/2013
+8,My Girls,Merriweather Post Pavilion,Animal Collective,0.508,,340786,55,0.256,0.953,0.0445,0.929,-6.031,0.0806,119.973,4,1/20/2009
+9,How Loud Your Heart Gets,Wildewoman (Deluxe Edition),Lucius,0.398,,343480,0,0.132,0.657,0.001,0.169,-6.758,0.038,140.054,4,10/14/2014
+10,Animal,Miike Snow (Deluxe Edition),Miike Snow,0.772,,263426,41,0.0096,0.721,5.85E-06,0.0869,-6.651,0.0777,118.021,4,2009
+11,There Will Be Time,Johannesburg,Mumford & Sons,0.481,,267946,0,0.0137,0.703,0,0.0879,-8.344,0.0466,149.951,4,6/17/2016
+12,Destination,A Dotted Line,Nickel Creek,0.515,,231240,46,0.46,0.444,3.81E-05,0.1,-8.847,0.0296,145.9,4,3/28/2014
+13,Ran,The Far Field,Future Islands,0.465,,205586,17,0.00252,0.701,0.0447,0.0683,-6.828,0.0337,144.931,5,4/7/2017
+14,"Twistin' The Night Away - Live at the Harlem Square Club, Miami, FL - January 1963","One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",Sam Cooke,0.277,,258959,32,0.273,0.959,0,0.862,-3.63,0.0581,169.016,4,8/16/1963
+15,My Girl,The Temptations Sing Smokey,The Temptations,0.572,,165000,79,0.635,0.418,0,0.0961,-10.738,0.0349,104.566,4,3/22/1965
+16,All My Loving - Remastered 2009,With The Beatles (Remastered),The Beatles,0.416,,127853,68,0.207,0.563,0,0.343,-8.724,0.0298,77.56,4,11/22/1963
+17,Luxury,The Definition,Jon Bellion,0.67,,243458,54,0.0159,0.393,0.000307,0.104,-9.158,0.122,77.461,4,9/23/2014
+18,Can't Hold Us (feat. Ray Dalton),The Heist,Macklemore & Ryan Lewis,0.634,,258431,34,0.027,0.927,0,0.0986,-4.468,0.0838,146.094,4,10/10/2012
+19,Feel It Still,Woodstock,Portugal. The Man,0.801,,163253,79,0.0417,0.795,0.000113,0.0717,-5.115,0.0504,79.028,4,6/16/2017
+20,Just Dancing,What Now,Sylvan Esso,0.803,,268440,44,0.0986,0.509,0.00156,0.0577,-7.409,0.0353,119.993,4,4/28/2017
+21,Happy,Tetra,C2C,0.753,,234640,49,0.0266,0.92,0.174,0.624,-4.657,0.0933,120.014,4,1/1/2012
+22,Electric Love,Dopamine,BØRNS,0.611,,218106,85,0.00543,0.797,0.00137,0.26,-7.627,0.0533,120.041,4,10/16/2015
+23,You've Got The Love,Lungs (Deluxe Edition),Florence + The Machine,0.574,,168666,61,0.00455,0.704,0,0.107,-4.72,0.0319,109.999,4,2009
+24,This Magic Moment,All-Time Greatest Hits & More 1959-1965,The Drifters,0.27,,151560,56,0.455,0.599,2.92E-06,0.116,-4.63,0.0327,136.169,3,11/15/1988
+25,Phenomenal Woman,The Dreaming Room (Special Edition),Laura Mvula,0.701,,164706,19,0.00229,0.658,0.016,0.348,-4.763,0.0409,129.926,4,11/25/2016
+26,Something About You,Good Grief (Deluxe Edition),Lucius,0.61,,220398,0,0.0451,0.899,0.01,0.196,-4.839,0.0601,125.012,4,3/11/2016
+27,D.A.N.C.E,Justice,Justice,0.613,,242266,66,0.034,0.962,0,0.824,-5.07,0.278,113.015,4,6/11/2007
+28,Come Away With Me,Come Away With Me,Norah Jones,0.363,,198146,72,0.904,0.129,1.52E-06,0.157,-14.304,0.0322,80.367,3,2/26/2002
+29,Your Song,Elton John,Elton John,0.554,,241786,79,0.828,0.315,5.53E-06,0.101,-11.028,0.0298,128.157,4,4/10/1970
+30,Stand by Me,Pain in My Heart,Otis Redding,0.883,,172333,70,0.279,0.464,1.51E-05,0.0744,-11.251,0.0591,111.548,4,1964
+31,Just Dance,The Fame,Lady Gaga,0.822,,241933,1,0.0261,0.737,4.19E-05,0.18,-4.542,0.0314,118.994,4,1/1/2008
+32,SexyBack (feat. Timbaland),FutureSex/LoveSounds,Justin Timberlake,0.967,,242733,80,0.0584,0.583,0,0.0519,-5.562,0.0789,117,4,9/12/2006
+33,We Found Love,Talk That Talk,Rihanna,0.735,,215226,74,0.025,0.766,0.00138,0.108,-4.485,0.0383,127.985,4,11/19/2011
+34,Hips Don't Lie (feat. Wyclef Jean),"Oral Fixation, Vol. 2 (Expanded Edition)",Shakira,0.778,,218093,84,0.284,0.824,0,0.405,-5.892,0.0712,100.024,4,11/28/2005
+35,Blue Jeans - RAC Mix,Blue Jeans Remixes,Lana Del Rey,0.694,,218213,46,0.399,0.841,0.00652,0.1,-3.889,0.0524,117.968,4,1/1/2012
+36,Run the World (Girls),4,Beyoncé,0.733,,236093,74,0.00496,0.899,4.72E-05,0.372,-4.237,0.143,127.086,4,6/24/2011
+37,Drunk in Love (feat. Jay-Z),BEYONCÉ [Platinum Edition],Beyoncé,0.589,,323480,72,0.00969,0.621,0.00104,0.181,-6.902,0.0468,140.03,4,11/24/2014
+38,Gold Digger,Late Registration,Kanye West,0.629,,207626,78,0.0195,0.696,0,0.0554,-5.572,0.348,93.034,4,8/30/2005
+39,Stronger,Graduation,Kanye West,0.617,,311866,82,0.00564,0.717,0,0.408,-7.858,0.153,103.992,4,9/11/2007
+40,Toxic,In The Zone,Britney Spears,0.774,,198800,82,0.0249,0.838,0.025,0.242,-3.914,0.114,143.04,4,11/13/2003
+41,Hung Up,Confessions on a Dance Floor,Madonna,0.649,,337733,75,0.0039,0.647,0.161,0.0686,-7.695,0.0452,125.02,4,11/11/2005
+42,Love Train,LOVE,Various Artists,0.727,,177360,16,0.278,0.709,0,0.558,-6.32,0.0351,122.424,4,2/9/2009
+43,Build Me Up Buttercup - Mono,The Foundations,The Foundations,0.659,,177533,75,0.315,0.513,0,0.283,-7.186,0.0293,133.609,4,1/1/1968
+44,Beggin',New Gold Hits,Frankie Valli & The Four Seasons,0.59,,170626,58,0.0651,0.356,0,0.167,-14.656,0.0404,129.639,4,5/1/1967
+45,Something's Got A Hold On Me - Single Version,Mad Men: A Musical Companion (1960-1965),Various Artists,0.474,,166466,0,0.675,0.566,0,0.548,-5.913,0.113,150.122,4,1/1/2011
+46,Can't Take My Eyes off You,The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli & The Four Seasons,0.575,,203240,70,0.566,0.764,1.07E-05,0.0692,-7.448,0.0746,123.821,4,1/14/2003
+47,Palco,Luar,Gilberto Gil,0.734,,266173,29,0.511,0.788,0.0774,0.326,-7.361,0.0462,108.325,4,1981
+48,Let's Stay Together,Let's Stay Together,Al Green,0.756,,199396,76,0.57,0.397,0.0115,0.0542,-10.701,0.0522,101.985,4,1972
